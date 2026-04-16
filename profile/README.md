@@ -28,7 +28,7 @@
 
 ### 🤝 আমাদের সাথে যোগাযোগ করুন
 আপনার কোনো আইডিয়া বাস্তবে রূপান্তর করতে চান বা আমাদের সাথে কাজ করতে আগ্রহী? 
-- 📧 ইমেইল: info@nexovatelabs.com (আপনার অফিশিয়াল ইমেইল দিন)
+- 📧 ইমেইল: nextinnovationlabs@gmail.com
 - 🌐 ওয়েবসাইট: [www.nexovatelabs.com](https://www.nexovatelabs.com)
 - 🔗 লিঙ্কডইন: [NexovateLabs](https://linkedin.com/company/nexovatelabs)
 
