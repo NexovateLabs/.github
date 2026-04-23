@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/b5pkfrZK/bg-kabir1-1.png" alt="Banner" width="100%" />
+  <img src="https://gemini.google.com/share/129157c67ed1" alt="Banner" width="100%" />
 </p>
 # 🚀 NexovateLabs
 **BORN TO INNOVATE**
