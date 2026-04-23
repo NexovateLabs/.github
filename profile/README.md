@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://gemini.google.com/share/129157c67ed1" alt="Banner" width="100%" />
-</p>
+![NexovateLabs Banner](https://i.ibb.co.com/yBXnt2xY/nexovatelabs-facebook.png)
 # 🚀 NexovateLabs
 **BORN TO INNOVATE**
 
