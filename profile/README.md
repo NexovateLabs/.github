@@ -1,8 +1,3 @@
-import os
-
-# Content for the README.md file in English
-readme_content = """<p align="center"><img src="https://i.ibb.co.com/yBXnt2xY/nexovatelabs-facebook.png" width="200" alt="NexovateLabs Logo"></p>
-
 # 🚀 NexovateLabs
 **BORN TO INNOVATE**
 
