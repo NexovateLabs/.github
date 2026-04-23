@@ -1,4 +1,6 @@
-![NexovateLabs Banner](https://i.ibb.co.com/yBXnt2xY/nexovatelabs-facebook.png)
+<p align="center">
+  <img src="https://i.ibb.co.com/yBXnt2xY/nexovatelabs-facebook.png" alt="Banner" width="100%" />
+</p>
 # 🚀 NexovateLabs
 **BORN TO INNOVATE**
 
