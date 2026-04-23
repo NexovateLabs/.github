@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co.com/yBXnt2xY/nexovatelabs-facebook.png" width="200" alt="NexovateLabs Logo"></p>
+<p align="center"><img src="https://gemini.google.com/share/129157c67ed1" width="200" alt="NexovateLabs Logo"></p>
 
 # 🚀 NexovateLabs
 **BORN TO INNOVATE**
