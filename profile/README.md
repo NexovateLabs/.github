@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/99Lf4kDY/Linked-In-2.png" alt="Banner" width="100%" />
+  <img src="https://drive.google.com/file/d/1b-pvs6Z5gM2TvRdNZ5IyosNTch3pEZxs/view?usp=sharing" alt="Banner" width="100%" />
 </p>
 # 🚀 NexovateLabs
 **BORN TO INNOVATE**
